@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langgraph
+llama-index
+chromadb
+faiss-cpu
+gradio
+flask
+python-dotenv
+jupyter
+ipykernel
+notebook
+pandas
+numpy
